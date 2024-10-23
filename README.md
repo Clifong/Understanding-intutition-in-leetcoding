@@ -1,2 +1,2 @@
 # Understanding-intutition-in-leetcoding
-Understanding intuition
+A public repository for me to describe my thinking process
